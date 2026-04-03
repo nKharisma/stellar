@@ -1,0 +1,3 @@
+C:/Users/senia/OneDrive/Documents/stellar/build/CMakeFiles/stellar.dir
+C:/Users/senia/OneDrive/Documents/stellar/build/CMakeFiles/edit_cache.dir
+C:/Users/senia/OneDrive/Documents/stellar/build/CMakeFiles/rebuild_cache.dir

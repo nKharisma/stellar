@@ -1,0 +1,13 @@
+*.exe
+*.out
+*.app
+
+*.obj
+*.o
+*.pdb
+*.ilk
+
+.vs/
+.vscode/
+bin/
+obj/
